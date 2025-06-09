@@ -51,7 +51,7 @@ A smart hallway lighting system based on motion detection.
 
 - 📧 Yandouziyassine@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/YassineYandouzi) *(add your actual LinkedIn URL)*  
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*
+- 🌐 [Portfolio Website](https://yassineyandouzi.com) *(optional)*
 
 ---
 
